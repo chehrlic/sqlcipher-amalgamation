@@ -1,6 +1,6 @@
 #!/bin/sh
 
-version=v4.14.0
+version=v4.15.0
 echo Building SQLCipher amalgamation for version $version
 
 rm -rf sqlcipher
